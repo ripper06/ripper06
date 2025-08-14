@@ -11,6 +11,8 @@
 </p>
 
 
+---
+
 
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
@@ -19,6 +21,8 @@
   <a href="https://jyoti-ranjan-dash-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
+
+---
 
 
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -49,6 +53,8 @@
 </p>
 
 
+---
+
 
 <h2 align="center">🎯 Featured Projects</h2>
 <p align="center">
@@ -60,6 +66,8 @@
 </p>
 
 
+---
+
 
 <h2 align="center">🏆 Achievements</h2>
 <p align="center">
@@ -67,12 +75,16 @@
 </p>
 
 
+---
+
 
 <h2 align="center">🐍 Contribution Snake</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
+
+---
 
 
 <h2 align="center">⚡ Fun Fact</h2>
