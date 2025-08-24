@@ -38,36 +38,41 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <details>
-<summary>💻 Programming Languages</summary>
+<summary><b>💻 Programming Languages</b> (click to expand)</summary>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" />
+  <b>C, C++, JavaScript, TypeScript, Python</b><br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python" />
 </p>
 </details>
 
 <details>
-<summary>🚀 Frontend</summary>
+<summary><b>🚀 Frontend</b> (click to expand)</summary>
 <p align="center">
+  <b>HTML, CSS, JavaScript, TypeScript, React, Vite, Webpack, Tailwind, Redux, Next.js, Firebase, Jest</b><br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,webpack,tailwind,redux,nextjs,firebase,jest" />
 </p>
 </details>
 
 <details>
-<summary>⚡ Backend</summary>
+<summary><b>⚡ Backend</b> (click to expand)</summary>
 <p align="center">
+  <b>Node.js, Express, MongoDB, MySQL, PostgreSQL, GraphQL, Sequelize, Nginx, npm</b><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,graphql,sequelize,nginx,npm" />
 </p>
 </details>
 
 <details>
-<summary>☁️ DevOps / Tools</summary>
+<summary><b>☁️ DevOps / Tools</b> (click to expand)</summary>
 <p align="center">
+  <b>Docker, Git, GitHub, AWS, VSCode, Postman, Redis, Linux</b><br/>
   <img src="https://skillicons.dev/icons?i=docker,git,github,aws,vscode,postman,redis,linux" />
 </p>
 </details>
 
 <details>
-<summary>🚀 CI/CD & Deployment</summary>
+<summary><b>🚀 CI/CD & Deployment</b> (click to expand)</summary>
 <p align="center">
+  <b>Vercel, Netlify, GitHub Actions</b><br/>
   <img src="https://skillicons.dev/icons?i=vercel,netlify,githubactions" />
 </p>
 </details>
