@@ -70,9 +70,14 @@
 
 
 <h2 align="center">🏆 Achievements</h2>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ripper06&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://img.shields.io/badge/DSA-500%2B%20Problems-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Hackathon-Winner-success?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Internship-DRDO-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MERN%20Stack-Expert-lightgrey?style=for-the-badge" />
 </p>
+
 
 
 
