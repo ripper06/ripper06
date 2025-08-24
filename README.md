@@ -40,7 +40,7 @@
 <details>
 <summary><b>💻 Programming Languages</b> (click to expand)</summary>
 <p align="center">
-  <b>C, C++, JavaScript, TypeScript, Python</b><br/>
+  <b>C, C++, JavaScript, TypeScript</b><br/>
   <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python" />
 </p>
 </details>
