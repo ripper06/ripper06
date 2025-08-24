@@ -1,6 +1,6 @@
 <!-- Dynamic Header -->
 <h1 align="center">Hi 👋, I'm Jyoti Ranjan Dash</h1>
-<h3 align="center">🚀 Full Stack Developer | Problem Solver | Tech Explorer 🚀</h3>
+<h3 align="center">🚀 Full Stack Developer | Backend Developer | Problem Solver | Tech Explorer 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;DSA+Enthusiast+%7C+500%2B+Problems+Solved;MERN+Stack+%7C+SQL+%7C+Docker+%7C+AWS;Always+learning+new+things!" alt="Typing SVG" />
@@ -69,10 +69,9 @@
 ---
 
 
-## 🏆 Achievements
-
+<h2 align="center">🏆 Achievements</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ripper06&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jyotiranjandash&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 
