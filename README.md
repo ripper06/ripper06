@@ -101,20 +101,23 @@
 ---
 
 <!-- ==================== GitHub Stats ==================== -->
-<h2 align="center">📊 GitHub Stats</h2>
+<!-- <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ripper06&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripper06&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
 <!-- ==================== Featured Projects ==================== -->
 <h2 align="center">🎯 Featured Projects</h2>
 <p align="center">
-  🔹 <a href="https://github.com/ripper06/CHEFO"><b>Chefo – Customer Meal Plan Management System (MERN)</b></a><br/>
-  🔹 <a href="https://github.com/ripper06/Railway-Intern-Frontend"><b>Railway Admin Dashboard (Frontend + Backend)</b></a><br/>
-  🔹 <a href="https://github.com/ripper06/Backend-Flight-Booking-Application"><b>Airline Booking Backend System (Node.js, SQL, Sequelize)</b></a><br/>
+  🔹 <a href="https://github.com/ripper06/Chattrix"><b>Chattrix : A matrix for team chats</b></a><br/>
+  🔹 <a href="https://github.com/ripper06/Backend-Flight-Booking-Application"><b>Robust Airline Booking Backend System</b></a><br/>
+  🔹 <a href="https://github.com/ripper06/HIRNEXT"><b>HIRNEXT : Next Generation Full StackAI Hiring Platform</b></a><br/>
+  🔹 <a href="https://github.com/ripper06/FoodieKart"><b>FoodieKart : Full Stack Recepies App</b></a><br/>
+  
+  
   <br/>
   👉 Explore more at my <a href="https://jyoti-ranjan-dash-portfolio.vercel.app/"><b>Portfolio</b></a>
 </p>
