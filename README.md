@@ -6,11 +6,24 @@
 <h3 align="center">🚀 Full Stack Developer | Backend Developer | Problem Solver | Tech Explorer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Software+Engineer+@+Oditek+Solutions;Full+Stack+Web+Developer;DSA+Enthusiast+%7C+500%2B+Problems+Solved;MERN+Stack+%7C+SQL+%7C+Docker+%7C+AWS;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;DSA+Enthusiast+%7C+500%2B+Problems+Solved;MERN+Stack+%7C+SQL+%7C+Docker+%7C+AWS;Always+learning+new+things!" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF" />
+</p>
+
+---
+
+<!-- ==================== About Me ==================== -->
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+💼 <b>Software Engineer @ Oditek Solutions</b><br/>
+🚀 Full Stack Developer specializing in scalable backend systems and modern web applications.<br/>
+💻 Solved <b>500+</b> DSA problems across LeetCode, CodeChef & Codeforces.<br/>
+🌱 Currently exploring <b>System Design, Cloud, DevOps, and AI-powered applications</b>.<br/>
+⚡ Passionate about building production-ready software and continuously learning new technologies.
 </p>
 
 ---
