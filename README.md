@@ -1,9 +1,12 @@
 <!-- ==================== Header ==================== -->
 <h1 align="center">Hi 👋, I'm Jyoti Ranjan Dash</h1>
+<p align="center">
+  <b>Software Engineer @ Oditek Solutions</b>
+</p>
 <h3 align="center">🚀 Full Stack Developer | Backend Developer | Problem Solver | Tech Explorer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;DSA+Enthusiast+%7C+500%2B+Problems+Solved;MERN+Stack+%7C+SQL+%7C+Docker+%7C+AWS;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Software+Engineer+@+Oditek+Solutions;Full+Stack+Web+Developer;DSA+Enthusiast+%7C+500%2B+Problems+Solved;MERN+Stack+%7C+SQL+%7C+Docker+%7C+AWS;Always+learning+new+things!" alt="Typing SVG" />
 </p>
 
 <p align="center">
