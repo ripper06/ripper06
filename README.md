@@ -124,16 +124,20 @@
 
 <!-- ==================== Featured Projects ==================== -->
 <h2 align="center">🎯 Featured Projects</h2>
-<p align="center">
-  🔹 <a href="https://github.com/ripper06/Chattrix"><b>Chattrix : A matrix for team chats</b></a><br/>
-  🔹 <a href="https://github.com/ripper06/Backend-Flight-Booking-Application"><b>Robust Airline Booking Backend System</b></a><br/>
-  🔹 <a href="https://github.com/ripper06/HIRNEXT"><b>HIRNEXT : Next Generation Full StackAI Hiring Platform</b></a><br/>
-  🔹 <a href="https://github.com/ripper06/FoodieKart"><b>FoodieKart : Full Stack Recepies App</b></a><br/>
-  
-  
-  <br/>
-  👉 Explore more at my <a href="https://jyoti-ranjan-dash-portfolio.vercel.app/"><b>Portfolio</b></a>
-</p>
+
+<div align="center">
+
+🔹 <a href="https://github.com/ripper06/Chattrix"><b>Chattrix: A Matrix for Team Chats</b></a><br>
+🔹 <a href="https://github.com/ripper06/Backend-Flight-Booking-Application"><b>Robust Airline Booking Backend System</b></a><br>
+🔹 <a href="https://github.com/ripper06/HIRNEXT"><b>HIRNEXT: Next Generation Full Stack AI Hiring Platform</b></a><br>
+🔹 <a href="https://github.com/ripper06/FoodieKart"><b>FoodieKart: Full Stack Recipes App</b></a>
+
+<br><br>
+
+👉 Explore more at
+<a href="https://jyoti-ranjan-dash-portfolio.vercel.app/"><b>Portfolio</b></a>
+
+</div>
 
 ---
 
