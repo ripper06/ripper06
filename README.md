@@ -107,7 +107,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripper06&layout=compact&theme=tokyonight&hide_border=true" />
 </p> -->
 
----
+
 
 <!-- ==================== Featured Projects ==================== -->
 <h2 align="center">🎯 Featured Projects</h2>
