@@ -132,9 +132,7 @@
 🔹 <a href="https://github.com/ripper06/Backend-Flight-Booking-Application"><b>Robust Airline Booking Backend System</b></a><br>
 🔹 <a href="https://github.com/ripper06/HIRNEXT"><b>HIRNEXT: Next Generation Full Stack AI Hiring Platform</b></a><br>
 🔹 <a href="https://github.com/ripper06/FoodieKart"><b>FoodieKart: Full Stack Recipes App</b></a>
-
-<br><br>
-
+<br>
 👉 <a href="https://jyoti-ranjan-dash-portfolio.vercel.app/"><b>Portfolio</b></a>
 
 </td></tr>
