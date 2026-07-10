@@ -134,8 +134,10 @@
 🔹 <a href="https://github.com/ripper06/FoodieKart"><b>FoodieKart: Full Stack Recipes App</b></a>
 <br>
 <br>
-👉 Explore more at
-👉 <a href="https://jyoti-ranjan-dash-portfolio.vercel.app/"><b>Portfolio</b></a>
+<p>
+  👉 Explore more at
+  <a href="https://jyoti-ranjan-dash-portfolio.vercel.app/"><b>Portfolio</b></a>
+</p>>
 
 </td></tr>
 </table>
