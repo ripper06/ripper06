@@ -125,7 +125,8 @@
 <!-- ==================== Featured Projects ==================== -->
 <h2 align="center">🎯 Featured Projects</h2>
 
-<div align="center">
+<table align="center">
+<tr><td>
 
 🔹 <a href="https://github.com/ripper06/Chattrix"><b>Chattrix: A Matrix for Team Chats</b></a><br>
 🔹 <a href="https://github.com/ripper06/Backend-Flight-Booking-Application"><b>Robust Airline Booking Backend System</b></a><br>
@@ -134,10 +135,10 @@
 
 <br><br>
 
-👉 Explore more at
-<a href="https://jyoti-ranjan-dash-portfolio.vercel.app/"><b>Portfolio</b></a>
+👉 <a href="https://jyoti-ranjan-dash-portfolio.vercel.app/"><b>Portfolio</b></a>
 
-</div>
+</td></tr>
+</table>
 
 ---
 
