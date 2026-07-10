@@ -15,19 +15,6 @@
 
 ---
 
-<!-- ==================== About Me ==================== -->
-<h2 align="center">👨‍💻 About Me</h2>
-
-<p align="center">
-💼 <b>Software Engineer @ Oditek Solutions</b><br/>
-🚀 Full Stack Developer specializing in scalable backend systems and modern web applications.<br/>
-💻 Solved <b>500+</b> DSA problems across LeetCode, CodeChef & Codeforces.<br/>
-🌱 Currently exploring <b>System Design, Cloud, DevOps, and AI-powered applications</b>.<br/>
-⚡ Passionate about building production-ready software and continuously learning new technologies.
-</p>
-
----
-
 <!-- ==================== Connect ==================== -->
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
@@ -36,6 +23,18 @@
   <a href="https://github.com/ripper06"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://jyoti-ranjan-dash-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
+
+---
+
+<!-- ==================== About Me ==================== -->
+<h2 align="center">👨‍💻 About Me</h2>
+
+- 💼 **Software Engineer @ Oditek Solutions**
+- 🚀 Full Stack Developer with expertise in **Node.js, Express.js, React, Next.js, MySQL, PostgreSQL, and Docker**
+- 💻 Solved **500+ DSA problems** across LeetCode, CodeChef & Codeforces
+- 🌱 Currently learning **System Design, AWS, DevOps, and scalable backend architectures**
+- 🤝 Open to collaborating on **Open Source** and impactful Full Stack projects
+- ⚡ Always striving to write clean, efficient, and maintainable code
 
 ---
 
