@@ -135,8 +135,8 @@
 <br>
 <br>
 <p align="center">
-  👉 Explore more at
-  <a href="https://jyoti-ranjan-dash-portfolio.vercel.app/"><b>Portfolio</b></a>
+  <sup> Explore more at my
+  <a href="https://jyoti-ranjan-dash-portfolio.vercel.app/"><b>Portfolio</b></a></sup>
 </p>
 
 </td></tr>
